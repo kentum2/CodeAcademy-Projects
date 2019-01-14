@@ -1,0 +1,23 @@
+.header { 
+    text-align:center;
+  }
+  .about-me {
+    font-size:22px;
+    opacity:0.9;  
+  }
+  
+  .title {
+    font-weight:bold;
+  }
+  
+  h1 {
+    color:rgb(12, 11, 22);
+  }
+  html {
+    font-family:Georgia;
+    background-image:url('https://www.naturefineartphotos.com/wp-content/uploads/2014/11/blackandwhite_manhattanbeachpier_1964.jpg');
+  }
+  
+  .image {
+    opacity:0.6;  
+  }
